@@ -2,6 +2,21 @@
 node_modules/
 jspm_packages/
 
+# Bun
+bun.lockb
+
+# Next.js
+.next/
+out/
+
+# Tauri
+src-tauri/target/
+src-tauri/WixTools/
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
 # Build artifacts
 dist/
 build/
@@ -49,7 +64,6 @@ coverage.xml
 .pytest_cache/
 
 # Project-specific
-.claude/
 icon.icns
 icon.iconset/
 

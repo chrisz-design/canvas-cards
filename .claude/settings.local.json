@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls -la \"/c/Users/XiaokangChen/Documents/Work \\( Normal Corporation \\)/Programming/VibeProject/canvas-cards\")",
+      "Bash(find \"/c/Users/XiaokangChen/Documents/Work \\( Normal Corporation \\)/Programming/VibeProject/canvas-cards\" -type f -name \"*.html\" -o -name \"*.css\" -o -name \"*.js\" -o -name \"*.json\")",
+      "Bash(find \"/c/Users/XiaokangChen/Documents/Work \\( Normal Corporation \\)/Programming/VibeProject/canvas-cards\" -type d -not -path \"*/.git\" -not -path \"*/.claude\" -not -path \"*/node_modules\")",
+      "Bash(wc:*)",
+      "Bash(mkdir -p \"C:\\\\Users\\\\XiaokangChen\\\\Documents\\\\Work \\( Normal Corporation \\)\\\\Programming\\\\VibeProject\\\\canvas-cards\\\\src\\\\app\" \"C:\\\\Users\\\\XiaokangChen\\\\Documents\\\\Work \\( Normal Corporation \\)\\\\Programming\\\\VibeProject\\\\canvas-cards\\\\src\\\\components\" \"C:\\\\Users\\\\XiaokangChen\\\\Documents\\\\Work \\( Normal Corporation \\)\\\\Programming\\\\VibeProject\\\\canvas-cards\\\\src\\\\lib\" \"C:\\\\Users\\\\XiaokangChen\\\\Documents\\\\Work \\( Normal Corporation \\)\\\\Programming\\\\VibeProject\\\\canvas-cards\\\\public\" \"C:\\\\Users\\\\XiaokangChen\\\\Documents\\\\Work \\( Normal Corporation \\)\\\\Programming\\\\VibeProject\\\\canvas-cards\\\\src-tauri\\\\src\" \"C:\\\\Users\\\\XiaokangChen\\\\Documents\\\\Work \\( Normal Corporation \\)\\\\Programming\\\\VibeProject\\\\canvas-cards\\\\src-tauri\\\\capabilities\" \"C:\\\\Users\\\\XiaokangChen\\\\Documents\\\\Work \\( Normal Corporation \\)\\\\Programming\\\\VibeProject\\\\canvas-cards\\\\src-tauri\\\\icons\")",
+      "Bash(cp \"C:\\\\Users\\\\XiaokangChen\\\\Documents\\\\Work \\( Normal Corporation \\)\\\\Programming\\\\VibeProject\\\\canvas-cards\\\\Welcome Darling.otf\" \"C:\\\\Users\\\\XiaokangChen\\\\Documents\\\\Work \\( Normal Corporation \\)\\\\Programming\\\\VibeProject\\\\canvas-cards\\\\public\\\\WelcomeDarling.otf\")",
+      "Bash(cat \"C:\\\\Users\\\\XiaokangChen\\\\Documents\\\\Work \\( Normal Corporation \\)\\\\Programming\\\\VibeProject\\\\canvas-cards\\\\.gitignore\")",
+      "Bash(ls \"C:\\\\Users\\\\XiaokangChen\\\\Documents\\\\Work \\( Normal Corporation \\)\\\\Programming\\\\VibeProject\\\\canvas-cards\\\\src\\\\lib\")",
+      "Bash(find \"C:\\\\Users\\\\XiaokangChen\\\\Documents\\\\Work \\( Normal Corporation \\)\\\\Programming\\\\VibeProject\\\\canvas-cards\\\\src\" -type f)",
+      "Bash(ls \"C:\\\\Users\\\\XiaokangChen\\\\Documents\\\\Work \\( Normal Corporation \\)\\\\Programming\\\\VibeProject\\\\canvas-cards\")",
+      "Bash(find \"C:\\\\Users\\\\XiaokangChen\\\\Documents\\\\Work \\( Normal Corporation \\)\\\\Programming\\\\VibeProject\\\\canvas-cards\\\\src-tauri\" -type f)",
+      "Bash(ls \"C:\\\\Users\\\\XiaokangChen\\\\Documents\\\\Work \\( Normal Corporation \\)\\\\Programming\\\\VibeProject\\\\canvas-cards\\\\public\")",
+      "Bash(head -5 \"C:\\\\Users\\\\XiaokangChen\\\\Documents\\\\Work \\( Normal Corporation \\)\\\\Programming\\\\VibeProject\\\\canvas-cards\\\\src\\\\lib\\\\canvasEngine.ts\")",
+      "Bash(tail -10 \"C:\\\\Users\\\\XiaokangChen\\\\Documents\\\\Work \\( Normal Corporation \\)\\\\Programming\\\\VibeProject\\\\canvas-cards\\\\src\\\\lib\\\\canvasEngine.ts\")",
+      "Bash(ls \"/c/Users/XiaokangChen/Documents/Work \\( Normal Corporation \\)/Programming/VibeProject/canvas-cards/src/lib/\")",
+      "Bash(ls:*)",
+      "Bash(head -5 \"/c/Users/XiaokangChen/Documents/Work \\( Normal Corporation \\)/Programming/VibeProject/canvas-cards/src/lib/canvasEngine.ts\")",
+      "Bash(tail -8 \"/c/Users/XiaokangChen/Documents/Work \\( Normal Corporation \\)/Programming/VibeProject/canvas-cards/src/lib/canvasEngine.ts\")",
+      "Bash(cd:*)",
+      "Bash(rm package-lock.json)",
+      "Bash(rm \"Welcome Darling.otf\")"
+    ]
+  }
+}
